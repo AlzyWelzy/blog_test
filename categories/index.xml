@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Manvendra Rajpoot</title>
+    <link>https://blog.alzywelzy.com/categories/</link>
+    <description>Recent content in Categories on Manvendra Rajpoot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2023 14:21:31 +0530</lastBuildDate>
+    <atom:link href="https://blog.alzywelzy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>alzywelzy</title>
+      <link>https://blog.alzywelzy.com/categories/alzywelzy/</link>
+      <pubDate>Tue, 26 Dec 2023 14:21:31 +0530</pubDate>
+      <guid>https://blog.alzywelzy.com/categories/alzywelzy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tech</title>
+      <link>https://blog.alzywelzy.com/categories/tech/</link>
+      <pubDate>Tue, 26 Dec 2023 14:21:31 +0530</pubDate>
+      <guid>https://blog.alzywelzy.com/categories/tech/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
